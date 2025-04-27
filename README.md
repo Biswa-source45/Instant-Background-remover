@@ -1,7 +1,7 @@
 
 # 🎨 Instant Background Remover 🖼️
 
-Effortlessly remove image backgrounds with just one click! Built with 🐍 🇵🇾  using Streamlit and rembg.
+Effortlessly remove image backgrounds with just one click! Built with 🐍  using Streamlit and rembg.
 
 ## ✨ Features
 
