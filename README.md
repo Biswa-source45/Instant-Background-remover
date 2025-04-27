@@ -42,7 +42,7 @@ Effortlessly remove image backgrounds with just one click! Built with ❤️ usi
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/instant-background-remover.git
+   git clone https://github.com/Biswa-source45/Instant-Background-remover.git
    cd instant-background-remover
    ```
 
